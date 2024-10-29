@@ -17,11 +17,11 @@
 
 # 🚀 Projects:
 * Chatbot using RAG: Developed a chatbot based on Retrieval-Augmented Generation (RAG) to assist students with query answers, leveraging LLAMA3.
-* Table Extractor: Built a pipeline to extract tabular data from images using Microsoft's Table Transformer and OpenGVLab’s InternVL2-8B for content extraction.
-* Mars Express Orbiter Prediction: Created a pipeline to predict thermal power consumption using Docker, PostgreSQL, XGBoost, and CatBoost.
-* German Biography Generator: Developed a tool to summarize German biographies using NLP techniques.
 * Hush Hush Recruiter: Automated candidate selection using GitHub data, clustering candidates and integrating PostgreSQL.
 * Data Pipeline Project: Constructed a data pipeline with Docker and Python for processing and storing data in Google BigQuery.
+* Mars Express Orbiter Prediction: Created a pipeline to predict thermal power consumption using Docker, PostgreSQL, XGBoost, and CatBoost.
+* German Biography Generator: Developed a tool to summarize German biographies using NLP techniques.
+* Table Extractor: Built a pipeline to extract tabular data from images using Microsoft's Table Transformer and OpenGVLab’s InternVL2-8B for content extraction.
 
 # 🎓 Education:
 * Master of Science: Applied Data Science and Analytics – SRH Hochschule Heidelberg (Current)
