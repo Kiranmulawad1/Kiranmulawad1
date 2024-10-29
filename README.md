@@ -1,4 +1,4 @@
-# Hi 👋, I’m Kiran!
+# Hi 👋, I’m Kiran Mulawad!
 🌐 I’m currently pursuing my Master of Science in Applied Data Science and Analytics at SRH Hochschule Heidelberg, and I am passionate about solving real-world problems through data science and technology.
 
 # 📊 My skill set includes:
