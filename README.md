@@ -1,9 +1,9 @@
-# Hi 👋, I’m Kiran Mulawad!
+# Hey 👋, I’m Kiran Mulawad!
 🌐 I’m currently pursuing my Master of Science in Applied Data Science and Analytics at SRH Hochschule Heidelberg, and I am passionate about solving real-world problems through data science and technology.
 
 # 📊 My skill set includes:
 * Programming Languages: Python, SQL, R
-* Technologies & Tools: Machine Learning (ML), NLP, Neural Networks, Generative AI, Data Mining, Predictive Analytics, ETL, Data Pipelines, Big Data, Hadoop, Spark, Data Scraping
+* Technologies & Tools: Machine Learning (ML), NLP, Neural Networks, Generative AI, Data Mining, Predictive Analytics, ETL, Data Pipelines, Big Data, PostgreSQL, Spark, Data Scraping
 * Cloud: Google Cloud Platform (GCP), Microsoft Azure
 * Visualization: Tableau, Power BI, SAS Visual Analytics, Excel
 * Libraries & Frameworks: Pandas, Scikit-learn, TensorFlow, PyTorch, NLTK, Spacy
@@ -30,6 +30,13 @@
 ## GitHub: [Kiranmulawad1](https://github.com/Kiranmulawad1)
 ## Email: kiranmulawad1@gmail.com
 
+# 🚀 Certifications
+* Python Programming
+* Fundamentals of Deep Learning from NVIDIA
+* Building LLM Applications With Prompt Engineering from NVIDIA
+* SAS Visual Analytics 1 for SAS Viya: Basics
+* SAS Visual Analytics 2 for SAS Viya: Advanced
+* SAS Certified Specialist: Visual Business Analytics Using SAS Viya
 <!--
 **Kiranmulawad1/Kiranmulawad1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
