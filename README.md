@@ -10,19 +10,17 @@
 * Other Tools: Git, Docker, Google Cloud SDK, API Integration, MS Office
 
 # 💼 Professional Experience:
-* Walkin Software Technologies – Data Science Intern
-* Gained hands-on experience with large datasets and reduced data processing time by 30%.
-* Improved model accuracy by 25% using advanced data analysis techniques.
-* Implemented ML models for predictive modeling, classification, and clustering.
+* iiterate Technologies GmbH – AI Engineer Intern
+* Built an AI-based recommendation system to match businesses with government funding programs.
+* Developed document parsing, semantic search (RAG), and LLM-powered guidance systems.
+* Integrated Streamlit front-end and Pinecone vector DB with local LLM inference (LLaMA 3.2 + Mistral).
 
 # 🚀 Projects:
 * Chatbot using RAG: Developed a chatbot based on Retrieval-Augmented Generation (RAG) to assist students with query answers, leveraging LLAMA3.
 * Hush Hush Recruiter: Automated candidate selection using GitHub data, clustering candidates and integrating PostgreSQL.
 * Data Pipeline Project: Constructed a data pipeline with Docker and Python for processing and storing data in Google BigQuery.
 * Mars Express Orbiter Prediction: Created a pipeline to predict thermal power consumption using Docker, PostgreSQL, XGBoost, and CatBoost.
-* German Biography Generator: Developed a tool to summarize German biographies using NLP techniques.
-* Table Extractor: Built a pipeline to extract tabular data from images using Microsoft's Table Transformer and OpenGVLab’s InternVL2-8B for content extraction.
-
+  
 # 🎓 Education:
 * Master of Science: Applied Data Science and Analytics – SRH Hochschule Heidelberg (Current)
 * Bachelor of Computer Applications: P.C. Jabin Science College
