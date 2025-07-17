@@ -25,11 +25,6 @@
 * Master of Science: Applied Data Science and Analytics – SRH Hochschule Heidelberg (Current)
 * Bachelor of Computer Applications: P.C. Jabin Science College
 
-# 🔗 Let's connect!
-## LinkedIn: [Kiran Mulawad](https://www.linkedin.com/in/kiran-mulawad-4573b8229/)
-## GitHub: [Kiranmulawad1](https://github.com/Kiranmulawad1)
-## Email: kiranmulawad1@gmail.com
-
 # 🚀 Certifications
 * Python Programming
 * Fundamentals of Deep Learning from NVIDIA
@@ -37,6 +32,16 @@
 * SAS Visual Analytics 1 for SAS Viya: Basics
 * SAS Visual Analytics 2 for SAS Viya: Advanced
 * SAS Certified Specialist: Visual Business Analytics Using SAS Viya
+
+# Languages
+* English (Fluent), German (A2), Kannada (Fluent), Hindi (Fluent).
+
+# 🔗 Let's connect!
+## LinkedIn: [Kiran Mulawad](https://www.linkedin.com/in/kiran-mulawad-4573b8229/)
+## GitHub: [Kiranmulawad1](https://github.com/Kiranmulawad1)
+## Email: kiranmulawad1@gmail.com
+
+
 <!--
 **Kiranmulawad1/Kiranmulawad1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
