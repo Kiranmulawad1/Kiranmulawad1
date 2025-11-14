@@ -26,7 +26,6 @@
 * Bachelor of Computer Applications: P.C. Jabin Science College
 
 # 🚀 Certifications
-* Python Programming
 * Fundamentals of Deep Learning from NVIDIA
 * Building LLM Applications With Prompt Engineering from NVIDIA
 * SAS Visual Analytics 1 for SAS Viya: Basics
@@ -34,7 +33,7 @@
 * SAS Certified Specialist: Visual Business Analytics Using SAS Viya
 
 # Languages
-* English (Fluent), German (A2), Kannada (Fluent), Hindi (Fluent).
+* English (Fluent), German (A2).
 
 # 🔗 Let's connect!
 ## LinkedIn: [Kiran Mulawad](https://www.linkedin.com/in/kiran-mulawad-4573b8229/)
