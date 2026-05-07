@@ -1,4 +1,4 @@
-## Greetings 👋 !! Kiran here
+## Hey 👋 !! Kiran here
 
 ### 🙋‍♂️ About me
 
